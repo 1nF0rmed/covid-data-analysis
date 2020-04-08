@@ -1,0 +1,4 @@
+covid.json
+*.yml
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
